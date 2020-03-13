@@ -1,0 +1,26 @@
+# /etc/conf.d/topachaind: config file for /etc/init.d/topachaind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/topachain/topachain.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/topachaind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/topachaind.pid"
+
+# Where to write topachaind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/topachaind"
+
+# User and group to own topachaind process
+#BITCOIND_USER="topachain"
+#BITCOIND_GROUP="topachain"
+
+# Path to topachaind executable
+#BITCOIND_BIN="/usr/bin/topachaind"
+
+# Nice value to run topachaind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

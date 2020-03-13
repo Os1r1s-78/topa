@@ -1,0 +1,11 @@
+[Protocol]
+exec=topachain-qt '%u'
+protocol=topachain
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

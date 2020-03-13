@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TopaChain
+Comment=TopaChain P2P Cryptocurrency
+Comment[fr]=TopaChain, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TopaChain, eşten eşe kriptografik sanal para birimi
+Exec=topachain-qt %u
+Terminal=false
+Type=Application
+Icon=topachain128
+MimeType=x-scheme-handler/topachain;
+Categories=Office;Finance;
