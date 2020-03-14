@@ -226,10 +226,10 @@ QT_TRANSLATE_NOOP("topachain-core", ""
 QT_TRANSLATE_NOOP("topachain-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("topachain-core", "(21103 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("topachain-core", "(25000 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("topachain-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("topachain-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("topachain-core", "(must be 21103 for mainnet)"),
+QT_TRANSLATE_NOOP("topachain-core", "(must be 25000 for mainnet)"),
 QT_TRANSLATE_NOOP("topachain-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("topachain-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("topachain-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

@@ -4527,8 +4527,8 @@ Beispiel: alertnotify=echo %%s | mail -s "TopaChain Alert" admin@foo.com
         <translation>Sie müssen einen privaten Masternode-Schlüssel in der Konfiguration festlegen. Bitte nutzen Sie die Dokumentation zwecks Hilfe.</translation>
     </message>
     <message>
-        <source>(21103 could be used only on mainnet)</source>
-        <translation>(21103 kann nur im Mainnet verwendet werden)</translation>
+        <source>(25000 could be used only on mainnet)</source>
+        <translation>(25000 kann nur im Mainnet verwendet werden)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4539,8 +4539,8 @@ Beispiel: alertnotify=echo %%s | mail -s "TopaChain Alert" admin@foo.com
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 21103 for mainnet)</source>
-        <translation>(muss im Mainnet 21103 sein)</translation>
+        <source>(must be 25000 for mainnet)</source>
+        <translation>(muss im Mainnet 25000 sein)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
