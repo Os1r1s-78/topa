@@ -227,3 +227,4 @@ CLEANFILES = $(OSX_DMG) $(BITCOIN_WIN_INSTALLER)
 
 clean-local:
 	rm -rf test_topachain.coverage/ total.coverage/ $(OSX_APP)
+
