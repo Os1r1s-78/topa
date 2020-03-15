@@ -131,12 +131,12 @@ public:
         nMaxMoneyOut = 1000000 * COIN;
 
         /** Height or Time Based Activations **/
-        nLastPOWBlock = 401;
+        nLastPOWBlock = 1440;
 
-        nModifierUpdateBlock = 425;
+        nModifierUpdateBlock = 1465;
         nStakeMinAmount = 1 * COIN;
 
-        nZerocoinStartHeight = 402;
+        nZerocoinStartHeight = 1442;
 
         /**
          * Build the genesis block. Note that the output of the genesis coinbase cannot
