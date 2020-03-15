@@ -5,7 +5,7 @@
 ### Main Issue: Berkeley DB
 
 The main issue you will face when compiling is activating CXX headers from berkeley-db. Normal download of db-4.8.30 will come with
-config.sub and config.guess for desktop Linux, however these files need to be changed. To do so, first download db-4.8.30 to ~:
+config.sub and config.guess for desktop Linux, however these files need to be changed. To do so, first download db-4.8.30 to `~`:
 
 `wget http://download.oracle.com/berkeley-db/db-4.8.30.zip`
 
